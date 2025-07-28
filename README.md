@@ -1,4 +1,4 @@
-# 🏗️ Projeto_Processos_Gerenciais_Univesp
+# 🏗️ Projeto Processos Gerenciais - Univesp
 
 Este repositório reúne ideias, modelos e propostas voltadas à **integração entre universidades públicas e a sociedade brasileira**, por meio da implantação de **estruturas industriais-piloto dentro dos campi universitários**, com foco em saúde pública, sustentabilidade e inovação aplicada.
 
