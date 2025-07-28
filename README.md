@@ -106,14 +106,6 @@ A estrutura será gerida por um **conselho universitário multidisciplinar**, co
 
 ---
 
-## 🔍 Exemplos Inspiradores
-
-- Fábricas-piloto universitárias na Alemanha (Fraunhofer Institutes)
-- Incubadoras de medicamentos genéricos na Índia (universidades + setor público)
-- Centros de inovação em saúde pública em Cuba e Canadá
-
----
-
 ## 📌 Considerações Finais
 
 Este projeto está em fase inicial e aberta à **colaboração da comunidade acadêmica e da sociedade civil**.
