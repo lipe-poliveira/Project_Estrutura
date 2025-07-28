@@ -28,16 +28,15 @@ A estrutura se apoia em **três eixos principais**:
 
 Responsável por planejamento estratégico, gestão de pessoas, finanças, compliance, contratos e logística geral.
 
-**Cursos envolvidos:**
+**Cursos da USP-RP envolvidos:**
 
 | Área                     | Cursos                                                                      |
 |--------------------------|-----------------------------------------------------------------------------|
-| Administração e Negócios | Administração, Finanças                                                     |
-| Contabilidade            | Ciências Contábeis                                                          |
-| Economia                 | Ciências Econômicas                                                         |
-| Direito                  | Direito                                                                     |
-| Modelagem Quantitativa   | Matemática Aplicada, Estatística                                           |
-| Gestão de Pessoas        | Psicologia Organizacional, Administração                                    |
+| Administração e Negócios | Administração                                                              |
+| Contabilidade            | Ciências Contábeis                                                         |
+| Economia                 | Ciências Econômicas                                                        |
+| Direito Público          | Direito                                                                     |
+| Gestão de Pessoas        | Psicologia (ênfase organizacional)                                         |
 
 ---
 
@@ -45,14 +44,14 @@ Responsável por planejamento estratégico, gestão de pessoas, finanças, compl
 
 Coração técnico e prático da fábrica: formulação, controle de qualidade, tecnologia de processos e distribuição.
 
-**Cursos envolvidos:**
+**Cursos da USP-RP envolvidos:**
 
 | Área Técnico-Industrial       | Cursos                                                                  |
 |-------------------------------|-------------------------------------------------------------------------|
-| Engenharia de Processos       | Química, Engenharia Química, Farmácia                                  |
-| TI e Automação                | Ciências da Computação, Informática Biomédica                          |
-| Biotecnologia                 | Ciências Biomédicas, Farmácia                                          |
-| Logística Industrial          | Computação, Engenharia, Administração                                  |
+| Processos Químicos e Farmacêuticos | Química, Engenharia Química, Farmácia                                |
+| Automação e Informática       | Ciências da Computação, Informática Biomédica                          |
+| Biotecnologia e Processos     | Ciências Biomédicas, Farmácia                                          |
+| Logística Operacional         | Administração, Ciências da Computação                                  |
 
 ---
 
@@ -60,15 +59,15 @@ Coração técnico e prático da fábrica: formulação, controle de qualidade, 
 
 Área voltada à criação, validação e documentação de tecnologias, medicamentos e boas práticas.
 
-**Cursos envolvidos:**
+**Cursos da USP-RP envolvidos:**
 
-| Área de Pesquisa e Impacto        | Cursos                                                                |
-|----------------------------------|-----------------------------------------------------------------------|
-| Desenvolvimento Tecnológico      | Farmácia, Química, Ciências Biomédicas                                |
-| Normas Técnicas e Regulatórias   | Biblioteconomia, Ciência da Informação                                |
-| Prototipagem e Inovação Digital  | Computação, Informática Biomédica                                     |
-| Testes e Aplicações Clínicas     | Enfermagem, Psicologia, Nutrição, Terapia Ocupacional                 |
-| Políticas Públicas e Sociedade   | Direito, Administração Pública, Ciências Econômicas                   |
+| Área de Pesquisa e Aplicação        | Cursos                                                               |
+|-------------------------------------|----------------------------------------------------------------------|
+| Desenvolvimento e Validação         | Farmácia, Química, Ciências Biomédicas                               |
+| Documentação Técnica e Normas       | Biblioteconomia e Ciência da Informação                              |
+| Prototipagem e Inovação Digital     | Informática Biomédica, Ciências da Computação                        |
+| Aplicações Clínicas e Terapêuticas  | Enfermagem, Psicologia, Nutrição, Terapia Ocupacional                |
+| Impacto Social e Políticas Públicas | Direito, Administração, Ciências Econômicas                          |
 
 ---
 
