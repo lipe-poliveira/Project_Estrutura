@@ -48,10 +48,10 @@ Coração técnico e prático da fábrica: formulação, controle de qualidade, 
 
 | Área Técnico-Industrial       | Cursos                                                                  |
 |-------------------------------|-------------------------------------------------------------------------|
-| Processos Químicos e Farmacêuticos | Química, Engenharia Química, Farmácia                                |
-| Automação e Informática       | Ciências da Computação, Informática Biomédica                          |
-| Biotecnologia e Processos     | Ciências Biomédicas, Farmácia                                          |
-| Logística Operacional         | Administração, Ciências da Computação                                  |
+| Processos Químicos e Farmacêuticos | Química, Farmácia                                                  |
+| Automação e Informática       | Ciências da Computação, Informática Biomédica                           |
+| Biotecnologia e Processos     | Ciências Biomédicas, Farmácia                                           |
+| Logística Operacional         | Administração, Ciências da Computação                                   |
 
 ---
 
@@ -65,7 +65,7 @@ Coração técnico e prático da fábrica: formulação, controle de qualidade, 
 |-------------------------------------|----------------------------------------------------------------------|
 | Desenvolvimento e Validação         | Farmácia, Química, Ciências Biomédicas                               |
 | Documentação Técnica e Normas       | Biblioteconomia e Ciência da Informação                              |
-| Prototipagem e Inovação Digital     | Informática Biomédica, Ciências da Computação                        |
+| Prototipagem e Inovação Digital     | Informática Biomédica, Ciências da Computação, Física Médica         |
 | Aplicações Clínicas e Terapêuticas  | Enfermagem, Psicologia, Nutrição, Terapia Ocupacional                |
 | Impacto Social e Políticas Públicas | Direito, Administração, Ciências Econômicas                          |
 
