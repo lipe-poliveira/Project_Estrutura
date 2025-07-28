@@ -1,111 +1,130 @@
-# 🏗️ Project_Estrutura
+# 🏗️ Projeto_Estrutura
 
-Este repositório foi criado com o objetivo de documentar ideias, modelos e reflexões voltadas à **melhoria da integração entre universidades públicas e a sociedade brasileira**, por meio da **implantação de estruturas industriais-piloto** dentro das instituições de ensino superior, com foco em saúde pública, sustentabilidade e inovação.
+Este repositório reúne ideias, modelos e propostas voltadas à **integração entre universidades públicas e a sociedade brasileira**, por meio da implantação de **estruturas industriais-piloto dentro dos campi universitários**, com foco em saúde pública, sustentabilidade e inovação aplicada.
 
 ---
 
 ## 🎯 Motivação
 
-O Brasil é um país com grande potencial humano e científico, mas ainda pouco desenvolvido industrialmente. Somos excessivamente dependentes de **exportação de commodities** e **setores primários**, o que gera fragilidades internas, especialmente em áreas críticas como a saúde.
+O Brasil é um país com grande potencial humano e científico, mas ainda apresenta **baixa capacidade industrial autônoma**. A excessiva dependência de exportações primárias torna o país vulnerável — especialmente em áreas críticas como a saúde.
 
-> O objetivo deste projeto não é propor privatizações ou mercantilizações da universidade, mas sim **aproximar o setor acadêmico das demandas reais da população brasileira**.
-
-A proposta nasce da ideia de que **universidades públicas podem ser protagonistas na industrialização do país**, criando **estruturas internas e sustentáveis** para desenvolvimento e produção, com foco na formação de profissionais, pesquisa aplicada e fortalecimento do setor público.
+> Este projeto não propõe privatizações ou mercantilizações da universidade. Propõe **valorizar seu papel como agente público de desenvolvimento e soberania nacional.**
 
 ---
 
-## 🏭 Proposta: Fábrica Piloto Universitária
+## 🧩 Proposta Geral
 
-A proposta central consiste na criação de uma **Farmácia Industrial Universitária** dentro do campus da USP-Ribeirão Preto (USP-RP), com foco em abastecimento ao HCFMRP (Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto) e seu complexo.
+A proposta central é criar uma **Fábrica Universitária de Insumos Farmacêuticos** dentro do campus da USP-Ribeirão Preto (USP-RP), com foco em **atender diretamente demandas do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto (HCFMRP)** e seu ecossistema.
 
-Essa fábrica seria **multidisciplinar, gerida por alunos, professores e pesquisadores** de diversos cursos, com estrutura dividida em três pilares principais:
+Essa fábrica será **multidisciplinar, colaborativa e voltada à produção real**, articulando ensino, pesquisa e extensão. Alunos, professores e pesquisadores de diferentes áreas atuarão em conjunto, desenvolvendo soluções com impacto direto na sociedade.
 
 ---
 
-## 📊 Estrutura Operacional
+## 🧱 Estrutura Operacional
+
+A estrutura se apoia em **três eixos principais**:
 
 ### 1. Administração e Gestão
 
-Responsável por planejamento estratégico, gestão financeira, compliance, logística e contratos.
+Responsável por planejamento estratégico, gestão de pessoas, finanças, compliance, contratos e logística geral.
 
 **Cursos envolvidos:**
 
-| Área                      | Cursos                                                                 |
-|---------------------------|------------------------------------------------------------------------|
-| Administração             | Administração, Finanças e Negócios                                     |
-| Contabilidade             | Ciências Contábeis                                                     |
-| Economia                  | Ciências Econômicas                                                    |
-| Direito                   | Direito                                                                |
-| Modelagem Quantitativa    | Matemática Aplicada a Negócios                                         |
-| Gestão de Pessoas         | Psicologia (com foco em comportamento organizacional)                  |
+| Área                     | Cursos                                                                      |
+|--------------------------|-----------------------------------------------------------------------------|
+| Administração e Negócios | Administração, Finanças, Gestão Pública                                     |
+| Contabilidade            | Ciências Contábeis                                                          |
+| Economia                 | Ciências Econômicas                                                         |
+| Direito                  | Direito                                                                     |
+| Modelagem Quantitativa   | Matemática Aplicada, Estatística                                           |
+| Gestão de Pessoas        | Psicologia Organizacional, Administração                                    |
 
 ---
 
 ### 2. Produção e Operações
 
-Coração operacional da fábrica: planeja, produz, controla qualidade, gere estoques e distribui os insumos farmacêuticos.
+Coração técnico e prático da fábrica: formulação, controle de qualidade, tecnologia de processos e distribuição.
 
 **Cursos envolvidos:**
 
-| Área de Produção             | Cursos Relacionados                                                 |
-|------------------------------|----------------------------------------------------------------------|
-| Engenharia e Processos       | Química, Farmácia                                                   |
-| TI aplicada à indústria      | Ciências da Computação, Informática Biomédica                      |
-| Biotecnologia aplicada       | Ciências Biomédicas, Farmácia                                      |
-| Logística e Eficiência       | Farmácia, Computação, Informática Biomédica                        |
+| Área Técnico-Industrial       | Cursos                                                                  |
+|-------------------------------|-------------------------------------------------------------------------|
+| Engenharia de Processos       | Química, Engenharia Química, Farmácia                                  |
+| TI e Automação                | Ciências da Computação, Informática Biomédica                          |
+| Biotecnologia                 | Ciências Biomédicas, Farmácia                                          |
+| Logística Industrial          | Computação, Engenharia, Administração                                  |
 
 ---
 
 ### 3. Pesquisa, Inovação e Desenvolvimento
 
-Responsável por padronização, validação, documentação técnica e desenvolvimento de novas tecnologias e medicamentos.
+Área voltada à criação, validação e documentação de tecnologias, medicamentos e boas práticas.
 
 **Cursos envolvidos:**
 
-| Área de Pesquisa              | Cursos                                                               |
-|-------------------------------|----------------------------------------------------------------------|
-| Normas Técnicas e Documentos  | **Biblioteconomia e Ciência da Informação**                         |
-| Desenvolvimento Científico    | Farmácia, Química, Ciências Biomédicas, Medicina                   |
-| Inovação e Prototipagem       | Computação, Informática Biomédica                                  |
-| Testes e Aplicações Clínicas  | Enfermagem, Psicologia, Terapia Ocupacional, Nutrição              |
-| Políticas e Impacto Social    | Administração, Direito, Ciências Econômicas                        |
+| Área de Pesquisa e Impacto        | Cursos                                                                |
+|----------------------------------|-----------------------------------------------------------------------|
+| Desenvolvimento Tecnológico      | Farmácia, Química, Ciências Biomédicas                                |
+| Normas Técnicas e Regulatórias   | Biblioteconomia, Ciência da Informação                                |
+| Prototipagem e Inovação Digital  | Computação, Informática Biomédica                                     |
+| Testes e Aplicações Clínicas     | Enfermagem, Psicologia, Nutrição, Terapia Ocupacional                 |
+| Políticas Públicas e Sociedade   | Direito, Administração Pública, Ciências Econômicas                   |
 
 ---
 
-## 🧠 Visão Estratégica
+## 🎯 Objetivos Estratégicos
 
-- **Transformar a universidade em espaço de produção real, não só de conhecimento teórico**
-- **Oferecer insumos diretamente ao sistema público de saúde**
-- **Formar profissionais com experiências aplicadas**
-- **Promover inovação com impacto social**
-- **Gerar economia e eficiência para o Estado**
-- **Evitar a dependência externa em setores críticos como farmacêutico**
+- Transformar a universidade em um **espaço produtivo de inovação aplicada**
+- Reduzir a dependência nacional de **insumos importados em saúde**
+- Formar profissionais com **experiência prática e multidisciplinar**
+- Desenvolver tecnologias com **impacto social direto**
+- Gerar **eficiência econômica** para o sistema público
+- Criar um modelo **replicável e escalável** para outras universidades
 
 ---
 
 ## 🌱 Sustentabilidade e Futuro
 
-A fábrica-piloto será construída com foco em:
+A fábrica-piloto será baseada em princípios de **eficiência, inclusão e responsabilidade socioambiental**, incluindo:
 
-- **Modelos econômicos sustentáveis (Lean Manufacturing, economia circular)**
-- **Logística verde e eficiência energética**
-- **Indústria 4.0 com dados abertos**
-- **Parcerias públicas e comunitárias**
-- **Escalabilidade e replicabilidade para outros campi e universidades**
+- Economia circular e Lean Manufacturing
+- Logística verde e redução de desperdício
+- Indústria 4.0 com governança de dados aberta
+- Parcerias com setor público, ONGs e movimentos sociais
+- Projetos de replicação para outras universidades públicas
+
+---
+
+## 🧭 Governança e Gestão Participativa
+
+A estrutura será gerida por um **conselho universitário multidisciplinar**, com:
+
+- Participação de docentes, discentes e técnicos
+- Parceria com instituições públicas de saúde
+- Prestação de contas por dados abertos e relatórios técnicos
+- Modelo de gestão transparente, baseado em evidências e impacto social
+
+---
+
+## 🔍 Exemplos Inspiradores
+
+- Fábricas-piloto universitárias na Alemanha (Fraunhofer Institutes)
+- Incubadoras de medicamentos genéricos na Índia (universidades + setor público)
+- Centros de inovação em saúde pública em Cuba e Canadá
 
 ---
 
 ## 📌 Considerações Finais
 
-Este projeto é uma proposta teórica inicial. Ele ainda está em construção e aberto a críticas, colaborações e novas ideias. Seu foco é claro:
+Este projeto está em fase inicial e aberta à **colaboração da comunidade acadêmica e da sociedade civil**.
 
-> “Fortalecer o papel da universidade pública como agente de soberania, desenvolvimento e justiça social.”
+> “Fortalecer a universidade pública como motor de soberania, saúde e justiça social é uma tarefa coletiva.”
 
 ---
 
-## 📬 Contribua
+## 🤝 Contribua
 
-Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias nos documentos e modelos. A colaboração é a chave para que essa ideia possa sair do papel e, quem sabe, se tornar realidade.
+Você pode contribuir com ideias, críticas, documentos técnicos ou sugestões por meio de **issues**, **pull requests** ou criando novos documentos neste repositório.
 
 ---
 
@@ -113,3 +132,4 @@ Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias
 
 Este projeto está sob a Licença MIT. Livre para uso, modificação e redistribuição, desde que com os devidos créditos.
 
+---
