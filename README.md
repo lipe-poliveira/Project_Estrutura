@@ -32,7 +32,7 @@ Responsável por planejamento estratégico, gestão de pessoas, finanças, compl
 
 | Área                     | Cursos                                                                      |
 |--------------------------|-----------------------------------------------------------------------------|
-| Administração e Negócios | Administração, Finanças, Gestão Pública                                     |
+| Administração e Negócios | Administração, Finanças                                                     |
 | Contabilidade            | Ciências Contábeis                                                          |
 | Economia                 | Ciências Econômicas                                                         |
 | Direito                  | Direito                                                                     |
