@@ -1,126 +1,54 @@
-# 🏗️ Projeto Processos Gerenciais - Univesp
+🏭 Integração Multidisciplinar para uma Farmácia Industrial Universitária
+O projeto propõe a criação de uma Farmácia Industrial Universitária na USP Ribeirão Preto, unindo ensino, pesquisa e produção para fortalecer a autonomia tecnológica do Brasil, reduzir a dependência de importações e formar profissionais capazes de atuar em todas as áreas de uma planta farmacêutica moderna.
 
-Este repositório reúne ideias, modelos e propostas voltadas à **integração entre universidades públicas e a sociedade brasileira**, por meio da implantação de **estruturas industriais-piloto dentro dos campi universitários**, com foco em saúde pública, sustentabilidade e inovação aplicada.
+A proposta é integrar cursos de graduação do campus em um ecossistema colaborativo, onde cada área do conhecimento contribui para P&D, produção, qualidade, automação, gestão e compliance regulatório, alinhando-se a padrões GMP (Boas Práticas de Fabricação) e a políticas nacionais de assistência farmacêutica.
 
----
+🎯 Objetivos Principais
+Integrar competências acadêmicas para cobrir todas as demandas de uma farmácia industrial.
 
-## 🎯 Motivação
+Formar profissionais com experiência prática, participando de projetos reais de desenvolvimento e produção.
 
-O Brasil é um país com grande potencial humano e científico, mas ainda apresenta **baixa capacidade industrial autônoma**. A excessiva dependência de exportações primárias torna o país vulnerável — especialmente em áreas críticas como a saúde.
+Fomentar inovação em medicamentos, insumos e processos produtivos.
 
-> Este projeto não propõe privatizações ou mercantilizações da universidade. Propõe **valorizar seu papel como agente público de desenvolvimento e soberania nacional.**
+Gerar impacto social fornecendo produtos para o SUS e instituições de saúde pública.
 
----
+🔗 Eixos Funcionais e Conexão com os Cursos da USP Ribeirão Preto
+Legenda de participação:
+🔴 Núcleo Essencial – indispensável para o funcionamento da operação.
+🟠 Suporte Estratégico – garante eficiência e sustentabilidade da operação.
+🟡 Áreas Especiais – aplicáveis a linhas de produto ou demandas específicas.
 
-## 🧩 Proposta Geral
+Eixo Funcional	Cursos-chave	Participação	Exemplos de Atuação
+🔬 P&D e Assuntos Regulatórios	Farmácia, Química (Bacharelado), Ciências Biomédicas, Ciências Biológicas (se biotecnológicos)	🔴 Núcleo Essencial	Desenvolvimento de formulações, validação de métodos, estudos pré-clínicos, registro de produtos na ANVISA.
+🏭 Produção e Qualidade	Farmácia, Química, Administração	🔴 Núcleo Essencial	Gestão de linha de produção, BPF/GMP, controle de insumos, qualificação de fornecedores, auditorias internas.
+💻 Automação e Dados	Ciência da Computação, Informática Biomédica, Matemática Aplicada a Negócios	🔴 Núcleo Essencial	Sistemas MES/LIMS, rastreabilidade, análise de dados de produção, otimização de processos.
+📊 Gestão e Estratégia	Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios, Direito	🔴 Núcleo Essencial	Planejamento estratégico, gestão de custos industriais, viabilidade econômica, contratos, propriedade intelectual.
+🧠 Gestão e Desenvolvimento Organizacional	Psicologia, Administração, Direito	🟠 Suporte Estratégico	Recrutamento e seleção, treinamento, saúde ocupacional, clima organizacional, gestão de conflitos.
+📚 Documentação e Compliance	Biblioteconomia e Ciência da Informação, Direito	🟠 Suporte Estratégico	Gestão documental GMP, controle de versões de SOPs, indexação de dossiês, atendimento a inspeções.
+⚗️ Áreas Especiais	Física Médica (se radiofármacos), Nutrição e Metabolismo (se nutracêuticos)	🟡 Áreas Especiais	Desenvolvimento de produtos específicos, ensaios clínicos especializados, segurança de radioisótopos.
 
-A proposta central é criar uma **Fábrica Universitária de Insumos Farmacêuticos** dentro do campus da USP-Ribeirão Preto (USP-RP), com foco em **atender diretamente demandas do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto (HCFMRP)** e seu ecossistema.
+🔄 Como cada eixo se conecta no fluxo GMP
+P&D e Assuntos Regulatórios – transforma ideias e demandas clínicas em produtos viáveis e aprovados pela ANVISA.
 
-Essa fábrica será **multidisciplinar, colaborativa e voltada à produção real**, articulando ensino, pesquisa e extensão. Alunos, professores e pesquisadores de diferentes áreas atuarão em conjunto, desenvolvendo soluções com impacto direto na sociedade.
+Produção e Qualidade – garante que cada lote produzido siga padrões de segurança, eficácia e rastreabilidade.
 
----
+Automação e Dados – digitaliza e otimiza processos, garantindo integridade de dados (ALCOA+).
 
-## 🧱 Estrutura Operacional
+Gestão e Estratégia – direciona recursos, negocia parcerias e assegura viabilidade econômica.
 
-A estrutura se apoia em **três eixos principais**:
+Gestão Organizacional – mantém equipes motivadas, capacitadas e produtivas.
 
-### 1. Administração e Gestão
+Documentação e Compliance – preserva conformidade legal e regulatória, preparando a fábrica para inspeções.
 
-Responsável por planejamento estratégico, gestão de pessoas, finanças, compliance, contratos e logística geral.
+Áreas Especiais – agrega inovação em linhas específicas como nutracêuticos ou radiofármacos.
 
-**Cursos da USP-RP envolvidos:**
+📌 Próximos Passos
+Mapear docentes e laboratórios parceiros de cada curso envolvido.
 
-| Área                     | Cursos                                                                      |
-|--------------------------|-----------------------------------------------------------------------------|
-| Administração e Negócios | Administração                                                              |
-| Contabilidade            | Ciências Contábeis                                                         |
-| Economia                 | Ciências Econômicas                                                        |
-| Direito Público          | Direito                                                                     |
-| Gestão de Pessoas        | Psicologia (ênfase organizacional)                                         |
+Definir produto-piloto para desenvolvimento e registro.
 
----
+Formar grupo interdisciplinar com alunos e professores.
 
-### 2. Produção e Operações
+Planejar a infraestrutura GMP inicial (layout, utilidades, qualificação).
 
-Coração técnico e prático da fábrica: formulação, controle de qualidade, tecnologia de processos e distribuição.
-
-**Cursos da USP-RP envolvidos:**
-
-| Área Técnico-Industrial       | Cursos                                                                  |
-|-------------------------------|-------------------------------------------------------------------------|
-| Processos Químicos e Farmacêuticos | Química, Farmácia                                                  |
-| Automação e Informática       | Ciências da Computação, Informática Biomédica                           |
-| Biotecnologia e Processos     | Ciências Biomédicas, Farmácia                                           |
-| Logística Operacional         | Administração, Ciências da Computação                                   |
-
----
-
-### 3. Pesquisa, Inovação e Desenvolvimento
-
-Área voltada à criação, validação e documentação de tecnologias, medicamentos e boas práticas.
-
-**Cursos da USP-RP envolvidos:**
-
-| Área de Pesquisa e Aplicação        | Cursos                                                               |
-|-------------------------------------|----------------------------------------------------------------------|
-| Desenvolvimento e Validação         | Farmácia, Química, Ciências Biomédicas                               |
-| Documentação Técnica e Normas       | Biblioteconomia e Ciência da Informação                              |
-| Prototipagem e Inovação Digital     | Informática Biomédica, Ciências da Computação, Física Médica         |
-| Aplicações Clínicas e Terapêuticas  | Enfermagem, Psicologia, Nutrição, Terapia Ocupacional                |
-| Impacto Social e Políticas Públicas | Direito, Administração, Ciências Econômicas                          |
-
----
-
-## 🎯 Objetivos Estratégicos
-
-- Transformar a universidade em um **espaço produtivo de inovação aplicada**
-- Reduzir a dependência nacional de **insumos importados em saúde**
-- Formar profissionais com **experiência prática e multidisciplinar**
-- Desenvolver tecnologias com **impacto social direto**
-- Gerar **eficiência econômica** para o sistema público
-- Criar um modelo **replicável e escalável** para outras universidades
-
----
-
-## 🌱 Sustentabilidade e Futuro
-
-A fábrica-piloto será baseada em princípios de **eficiência, inclusão e responsabilidade socioambiental**, incluindo:
-
-- Economia circular e Lean Manufacturing
-- Logística verde e redução de desperdício
-- Indústria 4.0 com governança de dados aberta
-- Parcerias com setor público, ONGs e movimentos sociais
-- Projetos de replicação para outras universidades públicas
-
----
-
-## 🧭 Governança e Gestão Participativa
-
-A estrutura será gerida por um **conselho universitário multidisciplinar**, com:
-
-- Participação de docentes, discentes e técnicos
-- Parceria com instituições públicas de saúde
-- Prestação de contas por dados abertos e relatórios técnicos
-- Modelo de gestão transparente, baseado em evidências e impacto social
-
----
-
-## 📌 Considerações Finais
-
-Este projeto está em fase inicial e aberta à **colaboração da comunidade acadêmica e da sociedade civil**.
-
-> “Fortalecer a universidade pública como motor de soberania, saúde e justiça social é uma tarefa coletiva.”
-
----
-
-## 🤝 Contribua
-
-Você pode contribuir com ideias, críticas, documentos técnicos ou sugestões por meio de **issues**, **pull requests** ou criando novos documentos neste repositório.
-
----
-
-## 📚 Licença
-
-Este projeto está sob a Licença MIT. Livre para uso, modificação e redistribuição, desde que com os devidos créditos.
-
----
+Criar plano de integração curricular para que estudantes atuem no projeto com créditos acadêmicos.
